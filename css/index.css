@@ -7,7 +7,7 @@ body{
   height: 100vh;
   width: 100%;
   display: flex;
-  background-color: #2A2829;
+  background-image: linear-gradient(to right top, #000000, #390023, #600054, #6f009f, #1200ff);
   flex-direction: column;
   justify-content: center;
   align-items: center;
